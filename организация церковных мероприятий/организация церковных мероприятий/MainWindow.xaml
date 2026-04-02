@@ -1,0 +1,18 @@
+﻿<Window x:Class="организация_церковных_мероприятий.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:организация_церковных_мероприятий"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBox x:Name="LoginBox" Width="200" Margin="5" Tag="Логин"/>
+            <PasswordBox x:Name="PassBox" Width="200" Margin="5"/>
+            <Button Content="Войти" Click="LoginClick" Width="100" Margin="5"/>
+            <Button Content="Войти как гость" Click="GuestClick" Width="150" Margin="5"/>
+            <Button Content="Выход" Click="ExitClick" Width="100" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий.csproj.AssemblyReference.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\MainWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\EventsWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\App.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий_MarkupCompile.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий_MarkupCompile.lref
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\bin\Debug\организация церковных мероприятий.exe.config
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\bin\Debug\организация церковных мероприятий.exe
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\bin\Debug\организация церковных мероприятий.pdb
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\MainWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\EventsWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий.g.resources
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация_церковных_мероприятий.Properties.Resources.resources
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий.csproj.GenerateResource.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий.csproj.CoreCompileInputs.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий.exe
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\организация церковных мероприятий.pdb
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\AddEventWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\AddEventWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\UsersWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\UsersWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\ApproveWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Debug\ApproveWindow.baml

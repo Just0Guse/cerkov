@@ -1,0 +1,29 @@
+﻿<Window x:Class="организация_церковных_мероприятий.EventsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:организация_церковных_мероприятий"
+        mc:Ignorable="d"
+        Title="EventsWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="EventsGrid" AutoGenerateColumns="False" Margin="10,50,10,10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название" Binding="{Binding Title}"/>
+                <DataGridTextColumn Header="Место" Binding="{Binding Location}"/>
+                <DataGridTextColumn Header="Время" Binding="{Binding DateTime}"/>
+                <DataGridTextColumn Header="Организатор" Binding="{Binding Organizer}"/>
+                <DataGridTextColumn Header="Контакты" Binding="{Binding Contacts}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Height="30" Width="780" Margin="10">
+            <Button x:Name="AddBtn" Content="Добавить" Click="AddEventClick" Visibility="Collapsed" Margin="1"/>
+            <Button x:Name="DeleteBtn" Content="Удалить мероприятие" Click="DeleteEventClick" Visibility="Collapsed" Margin="1"/>            
+            <Button x:Name="ApproveBtn" Content="Согласование" Click="ApproveBtnClick" Visibility="Collapsed" Margin="1"/>
+            <Button x:Name="UsersBtn" Content="Пользователи" Click="UsersBtnClick" Visibility="Collapsed" Margin="1"/>
+            <Button x:Name="RefreshBtn" Content="Обновить таблицу" Click="RefreshClick" Margin="1"/>
+            <Button Content="Назад" Click="BackClick" Margin="1"/>
+        </StackPanel>
+    </Grid>
+</Window>
