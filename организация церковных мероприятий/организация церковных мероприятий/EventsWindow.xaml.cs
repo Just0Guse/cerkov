@@ -23,15 +23,16 @@ namespace организация_церковных_мероприятий
             AddBtn.Visibility = Visibility.Collapsed;
             ApproveBtn.Visibility = Visibility.Collapsed;
             UsersBtn.Visibility = Visibility.Collapsed;
+            DeleteBtn.Visibility = Visibility.Collapsed;
 
             if (_role == DatabaseHelper.UserRole.Admin || _role == DatabaseHelper.UserRole.Operator)
                 AddBtn.Visibility = Visibility.Visible;
-                DeleteBtn.Visibility = Visibility.Visible;
 
             if (_role == DatabaseHelper.UserRole.Admin)
             {
                 ApproveBtn.Visibility = Visibility.Visible;
                 UsersBtn.Visibility = Visibility.Visible;
+                DeleteBtn.Visibility = Visibility.Visible;
             }
         }
         private void BackClick(object sender, RoutedEventArgs e)
