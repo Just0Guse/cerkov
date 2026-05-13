@@ -1,0 +1,23 @@
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\bin\Release\организация церковных мероприятий.exe.config
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\bin\Release\организация церковных мероприятий.exe
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\bin\Release\организация церковных мероприятий.pdb
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий.csproj.AssemblyReference.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\MainWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\EventsWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\AddEventWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\UsersWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\ApproveWindow.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\App.g.cs
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий_MarkupCompile.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий_MarkupCompile.lref
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\MainWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\EventsWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\AddEventWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\UsersWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\ApproveWindow.baml
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий.g.resources
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация_церковных_мероприятий.Properties.Resources.resources
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий.csproj.GenerateResource.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий.csproj.CoreCompileInputs.cache
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий.exe
+C:\Users\jojer\source\repos\организация церковных мероприятий\организация церковных мероприятий\obj\Release\организация церковных мероприятий.pdb
